@@ -8,7 +8,7 @@ The website's theme is Minecraft. The website should be identifiable as Minecraf
 
 #### Color Palette
 
-<img src="https://github.com/DBsMOJO/WMC_Summer-Project/blob/main/Design/pics/color_palette.png" alt="color palette" width="250">
+<img src="https://github.com/DBsMOJO/WMC_Summer-Project/blob/main/Design/pics/color_palette.png" alt="color palette" width="350">
 
 ## Mainpage
 
