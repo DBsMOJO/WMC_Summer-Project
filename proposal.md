@@ -22,10 +22,10 @@ The main page should prominently display the latest and favorite content of my s
 
 The project serves as a foundation, with additional content to be added in the future, such as:
 
-    Link to the self-hosted Minecraft server
-    World map or exploration status of the self-hosted Minecraft server
-    Dedicated page for Minecraft crafting recipes or other collections of links
-    ...
+- Link to the self-hosted Minecraft server
+- World map or exploration status of the self-hosted Minecraft server
+- Dedicated page for Minecraft crafting recipes or other collections of links
+- ...
 
 ## Marketing
 
