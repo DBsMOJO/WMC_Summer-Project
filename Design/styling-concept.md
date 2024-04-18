@@ -8,7 +8,7 @@ The website's theme is Minecraft. The website should be identifiable as Minecraf
 
 #### Color Palette
 
-![color palette](http://bozims.co.uk/wp-content/uploads/sites/2/2014/01/RGB_color_chart-510x283.jpg)
+<img src="https://github.com/DBsMOJO/WMC_Summer-Project/blob/main/Design/pics/color_palette.png" alt="color palette" width="250">
 
 ## Mainpage
 
