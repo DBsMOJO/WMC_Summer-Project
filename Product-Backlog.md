@@ -8,7 +8,4 @@
 | E01 | 99 | extra | There should be a way to add a link to the self-hosted Minecraft server. | The link should be easily accessible, allowing users to directly access the server. | 1 |
 | E02 | 99 | extra | A world map or exploration status of the self-hosted Minecraft server should be added. | The map or status should be regularly updated to reflect the current state of the server. | 1 |
 | E03 | 99 | extra | A dedicated page for Minecraft crafting recipes or other collections of links should be created. | The page should be clear and informative, providing users with useful resources related to the game. | 8 |
-| G01 | 99 | generally | A marketing strategy should be developed to promote the website on the "schoolyard" or on YouTube. | The strategy should aim to increase the website's reach and generate interest in my son's content. | 2 |
-| G01 | 5 | generally | Resources and financing should be provided to ensure the operation of the website. | The resources should be sufficient to operate and maintain the website long-term, including domain registration and server costs. | 3 |
-| A01 | 1 | admin | Plans for the long-term maintenance and further development of the website should be created. | The plans should ensure that the website is continuously updated and improved to meet changing requirements and technologies. | 3 |
 
