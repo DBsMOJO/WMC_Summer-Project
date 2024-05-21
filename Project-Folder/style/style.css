@@ -126,16 +126,6 @@ h1 {
   align-items: center;
 }
 
-.picture-box:hover {
-  border: solid 5px #F3D352;
-  box-shadow: 0px 5px 25px rgba(0, 0, 0, 1);
-}
-
-.video-box:hover {
-  border: solid 5px #2462BC;
-  box-shadow: 0px 5px 25px rgba(0, 0, 0, 1);
-}
-
 .picture-box img {
   max-width: 100%;
   height: auto;
@@ -144,7 +134,7 @@ h1 {
 .video-box iframe {
   max-width: 100%;
   height: auto;
-  vorder: solid black 5px;
+  border: solid black 5px;
 }
 
 #footer {
@@ -169,11 +159,4 @@ h1 {
   grid-column-start: 3;
   grid-column-end: 4;
   text-align: center;
-}
-
-@media (max-width: 768px) {
-  .container-conntant {
-    grid-template-columns: 1fr;
-    column-gap: 0;
-  }
 }
